@@ -18,6 +18,7 @@ For example:
 
 | Questions        | Means |
 | ------------- |-------------| 
+| Enter filename | Give fullname path of excel file | 
 | Your excel has more than one sheet? Yes or No | Answer 'Yes' if file has more than one sheet | 
 | What is the name Excel sheet? | Give name of the sheet that contains UCs, Tactic, Technique | 
 | What is the excel column that store tactics? | Give letter of column that contain tactics in excel | 
