@@ -1,6 +1,6 @@
 # MITRE ATTACK UC COVERAGE
 
-Most enterprises take follow-up of your use cases in excel file to try obtain dashboard, status, metrics and a lot of more attributes but this way doesn't give a picture visibility that what is covering the use cases in a kill chain. This project consist in a Python script that let you have a visibility of your UC's coverage in MITRE ATTACK Navigator.
+Most enterprises take follow-up of your use cases in excel file to try obtain dashboard, status, metrics and a lot of more attributes that are importants to them but this way doesn't give a picture visibility that what is covering the use cases within a kill chain. This project consist in a Python script that let you have a visibility of your UC's coverage in MITRE ATTACK Navigator.
 
 # Requirements
 1. Download python file UC_Excel_MitreAttackNavigator.py
