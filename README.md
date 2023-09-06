@@ -5,8 +5,7 @@ Most enterprises take follow-up of your use cases in excel file to try obtain da
 # Requirements
 1. Download python file UC_Excel_MitreAttackNavigator.py
 2. Install Python 3
-3. Excel with your Use Cases and each UC has to include two columns: "Tactic", "TechniqueID"
-For example:
+3. Excel with your Use Cases and each UC has to include two columns: "Tactic", "TechniqueID". For example:
 
 |Use Case| Tactic        | TechniqueID |
 |---| ------------- |-------------| 
