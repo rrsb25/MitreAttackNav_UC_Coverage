@@ -27,6 +27,8 @@ Most enterprises take follow-up of your use cases in excel file to try obtain da
 4. If all was executed sucessfull, script'll create a json file "MitreNavigator.json".
 5. Upload json file "MitreNavigator.json" in https://mitre-attack.github.io/attack-navigator/ to see what tactics and techniques are covering wiht your use cases.
 
+** Note: It was tested with MITRE ATT&CK® Matrix for Enterprise. Not sure if it works for Mobile Matrix and/or ICS Matrix
+
 # Sample
 
 ![Sample](/Screen_Sample.png?raw=true "Sample")
