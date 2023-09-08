@@ -32,3 +32,4 @@ Most enterprises take follow-up of your use cases in excel file to try obtain da
 # Sample
 
 ![Sample](/Screen_Sample.png?raw=true "Sample")
+![Sample](/MitreNavigatorHeatMap.png?raw=true "Sample")
